@@ -9,18 +9,18 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
-  "PREFIX": "/",
-  "react": "☠️",
+  "BOTNAME": "Pagla-bot",
+  "PREFIX": ".",
+  "react": "😡",
   "OPERATOR": [
     "",
-    "100000959749712"
+    "100078769420993"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "100078769420993",
     ""
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["100078769420993"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
